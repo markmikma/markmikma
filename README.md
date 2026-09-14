@@ -12,7 +12,7 @@ My immediate goal is to start in an **IT Operations, Application Operations, or 
 
 ## Certifications
 
-<a href="https://www.netacad.com/courses/networking-basics">
+<a href="https://www.credly.com/badges/6dcf21b5-e8b7-4552-9ddd-f5df80df4fe9/public_url">
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics%20%E2%80%94%20Completed-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy — Networking Basics completed" />
 </a>
 
